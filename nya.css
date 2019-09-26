@@ -1,0 +1,26 @@
+
+/*
+*{
+    margin: 0;
+    height: 75%;
+}
+*/
+
+
+body{
+
+width: 100%;
+
+}
+
+
+
+.img-container {
+    background-image: url(https://images.pexels.com/photos/225085/pexels-photo-225085.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    top: 0;
+ }
